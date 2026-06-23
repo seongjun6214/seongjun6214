@@ -2,20 +2,11 @@
 
 # seongjun6214
 
-안녕하세요! 🙋‍♂️ 개발자 윤성준입니다.<br>
-개발은 단순한 프로그래밍을 넘어 모든 직군이 함께 프로덕트를 만들어가는 과정이라고 믿습니다.<br>
-비난이 아닌 건강한 비판과 소통을 언제나 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+렵게 들으려고 노력합니다 🦻
 
 <br>
 
-### 😎 My Values
-모든것은 재미있어야 합니다 💡<br>
-안전성을 겸비한 속도를 지향 합니다 🚀<br>
-쉽게 말하고 어렵게 들으려고 노력합니다 🦻
-
-<br>
-
-### 🧬 Artificial Intelligence & Data (학부연구생)
+### 🧬 Artificial Intelligence & Data (2026 WKU 학부연구생)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 <br>
