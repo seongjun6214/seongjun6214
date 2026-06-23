@@ -1,9 +1,6 @@
 <div align="center">
 
 # seongjun6214
-
-렵게 들으려고 노력합니다 🦻
-
 <br>
 
 ### 🧬 Artificial Intelligence & Data (2026 WKU 학부연구생)
